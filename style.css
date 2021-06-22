@@ -1,0 +1,41 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 25px orange;
+}
+
+.div-class{
+    color:gold;
+    background:darkred;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 25px black;
+    float: none;
+}
+
+.object_name_class{
+    font-size: 20px;
+    
+}
+
+.result_paratag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: maroon;
+    color: moccasin;
+}
+
+canvas{
+    border: 5px ridge midnightblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px darkred;
+    margin-top: 150px;
+}
